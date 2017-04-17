@@ -1,0 +1,9 @@
+<scheme name="Luis" version="142" parent_scheme="Default">
+  <option name="LINE_SPACING" value="0.7" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="CONSOLE_FONT_NAME" value="Courier 10 Pitch" />
+  <option name="CONSOLE_FONT_SIZE" value="16" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="MEDIUM" />
+  <option name="EDITOR_FONT_NAME" value="Courier 10 Pitch" />
+</scheme>
